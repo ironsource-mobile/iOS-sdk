@@ -10,7 +10,7 @@ https://developers.is.com/ironsource-mobile/ios/ios-sdk/
 ## Version History
 You can find a summary of the ironSouce SDK version history history [here](https://developers.is.com/ironsource-mobile/ios/sdk-change-log/)
 
-## Contact US
+## Contact Us
 For any question please contact us [here](https://ironsrc.my.site.com/helpcenter/s/)
 
 ## License
